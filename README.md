@@ -1,6 +1,6 @@
 # Technical Analysis Web Application for any stock
 
-## Visualization show includes
+## Visualization shown includes
 * Moving Average Crossovers
 * Bollinger Bands
 * MACD

@@ -1,0 +1,25 @@
+Dockerfile
+.gcloudignore
+# If you would like to upload your .git directory, .gitignore file or files
+# from your .gitignore file, remove the corresponding line
+# below:
+.git
+.gitignore
+
+# Python pycache:
+__pycache__/
+# Ignored by the build system
+/setup.cfg
+
+avocado_analytics.ipynb
+Pipfile
+Pipfile.lock
+
+.vscode/*
+.venv/
+venv/
+*.ipynb
+*.md
+
+ta-lib/*
+TA_Lib-0.4.19-cp38-cp38-win_amd64.whl
